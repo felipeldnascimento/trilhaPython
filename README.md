@@ -9,8 +9,8 @@ Módulo 1 - Introdução
 Módulo 2 - Conhecer a linguagem
 
 Artigo: Uma introdução à linguagem Python                      (x)<br>
-Python: Começando com a linguagem                              (-)
-Python: Avançando na linguagem                                 ( )
-Artigo: Trabalhando com precisão em números decimais no Python ( )
-Python: Entendendo a orientação a Objetos                      ( )
-Video: A linguagem Python                                      ( )
+Python: Começando com a linguagem                              (-)<br>
+Python: Avançando na linguagem                                 ( )<br>
+Artigo: Trabalhando com precisão em números decimais no Python ( )<br>
+Python: Entendendo a orientação a Objetos                      ( )<br>
+Video: A linguagem Python                                      ( )<br>
