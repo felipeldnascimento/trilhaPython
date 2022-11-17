@@ -2,7 +2,7 @@
 
 Status do projeto: Em Andamento
 
-Progresso
+<b>Progresso</b>
 
 Módulo 1 - Introdução
 
